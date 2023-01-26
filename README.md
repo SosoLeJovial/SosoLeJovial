@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a french developper who loves discover and learn new things
+I'm a french developper who loves discover and learn new things
 
 
 ## 🌐 Socials:
