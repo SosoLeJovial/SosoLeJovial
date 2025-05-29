@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I love peanuts and peanut butter<br>👯 I’m 27 years old<br>🤝 I'm curious, I enjoy diving deep into things that I'm passionate about<br>🌱 I’m currently learning C++, Docker, Caddy & Python<br>⚡ I’d like to explore the world of DevOps and cybersecurity
+🔭 I love peanuts and peanut butter<br>👯 I’m 28 years old<br>🤝 I'm curious, I enjoy diving deep into things that I'm passionate about<br>🌱 I’m currently learning C++, Docker, Caddy & Python<br>⚡ I’d like to explore the world of DevOps and cybersecurity
 
 
 # 💻 Tech Stack:
